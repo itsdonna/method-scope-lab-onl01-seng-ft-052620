@@ -1,5 +1,5 @@
 def catch_phrase(name)
-  puts phrase 
+  
 end
 
 
